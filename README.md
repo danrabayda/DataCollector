@@ -1,5 +1,5 @@
 # DataCollector
-A specific use case of an OCR (Optical Character Recognition) 
+A specific use case of an OCR (Optical Character Recognition) being used to label time-series audio from visually labeled youtube videos mostly automatically.
 
 This code uses pytesseract ocr to watch youtube videos and assign labels with timestamps.
 
